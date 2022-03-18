@@ -17,10 +17,10 @@ I am a Corporate Banker
 ## Outcome 2- The Commit Changes worked!!!
 
 ## What was difficult? 
-Getting an application source code that works
+Getting an application source code that works and being able to understand it's purpose. 
 
 
-## What I tried and didn't work? 
+## What didn't work? 
 - Uli's ghaction. 
 - Pushing new commits to the repository to trigger a workflow that does something with your code and trigger a notification to Telegram. 
 
