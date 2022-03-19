@@ -2,7 +2,7 @@ This is a Github Test for my NUS project.
 
 ## About Me
 
-I am a Corporate Banker 
+I am a Corporate Banker and I haver ZERO IT/ Programming background
 
 ## My Learning Objectives
 
